@@ -1,0 +1,12 @@
+{
+    "iss": "https://quarkus.io/using-jwt-rbac",
+    "jti": "a-123",
+    "sub": "test-using-jwt-rbac",
+    "upn": "test@quarkus.io",
+    "preferred_username": "test",
+    "aud": "using-jwt-rbac",
+    "birthdate": "2001-07-13",
+    "groups": [
+        "Paciente"
+    ]
+}
